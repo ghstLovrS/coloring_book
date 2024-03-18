@@ -1,6 +1,6 @@
 //lib/core/theme/app_theme.dart
 import 'package:flutter/material.dart';
-import '/core/theme/app_color.dart';
+import '/whiteboard/core/theme/app_color.dart';
 
 import 'app_textsyle.dart';
 

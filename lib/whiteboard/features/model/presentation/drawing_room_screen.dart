@@ -1,7 +1,7 @@
 //lib/features/model/presentation/drawing_room_screen.dart
 import 'package:flutter/material.dart';
-import 'package:coloring_book/core/theme/app_color.dart';
-import 'package:coloring_book/features/model/drawing_point.dart';
+import 'package:coloring_book/whiteboard/core/theme/app_color.dart';
+import 'package:coloring_book/whiteboard/features/model/drawing_point.dart';
 
 class DrawingRoomScreen extends StatefulWidget {
   const DrawingRoomScreen({Key? key}) : super(key: key);

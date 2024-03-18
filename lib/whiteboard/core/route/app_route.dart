@@ -1,8 +1,8 @@
 //lib/core/route/app_route.dart
-import 'package:coloring_book/core/route/app_route_name.dart';
+import 'package:coloring_book/whiteboard/core/route/app_route_name.dart';
 import 'package:flutter/material.dart';
-import 'package:coloring_book/level_screen.dart';
-import 'package:coloring_book/features/model/presentation/drawing_room_screen.dart';
+import 'package:coloring_book/whiteboard/level_screen.dart';
+import 'package:coloring_book/whiteboard/features/model/presentation/drawing_room_screen.dart';
 
 class AppRoute {
   static Route<dynamic>? generate(RouteSettings settings) {
