@@ -1,0 +1,31 @@
+name: coloring_book
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image: ^4.1.4
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/fish color.png
+    - assets/fish.png
+    - assets/apple.png
+    - assets/apple empty.png
+    - assets/ball.png
+    - assets/ball empty.png
+    - assets/house.png
+    - assets/house color.png
